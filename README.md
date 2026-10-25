@@ -21,52 +21,129 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 - 📜 NPTEL-certified in Machine Learning and Deep Learning
 - 🚀 Exploring internship and full-time opportunities starting January 2027
 
-## 🛠️ Tech Stack
 
-**Languages**
+## 🛠️ Tech Arsenal
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<table>
+<tr>
+<td width="33%" valign="top">
 
-**AI / Machine Learning**
+### Languages
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,c&theme=dark" />
 
-**Web Development & Tools**
+<img src="https://skillicons.dev/icons?i=html,css" />
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</td>
+<td width="33%" valign="top">
+
+### AI / ML
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
+
+`YOLOv8` · `EfficientNet` · `Scikit-learn` · `Pandas`
+
+</td>
+<td width="33%" valign="top">
+
+### Web & Backend
+
+<img src="https://skillicons.dev/icons?i=react,django,fastapi,nodejs&theme=dark" />
+
+`REST APIs` · `Bootstrap`
+
+</td>
+</tr>
+<tr>
+<td valign="top">
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
+
+`Oracle SQL` · `PL/SQL`
+
+</td>
+<td valign="top">
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm&theme=dark" />
+
+`Google Colab`
+
+</td>
+<td valign="top">
+
+### Data & Visualization
+
+<img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
+
+`NumPy` · `Pandas` · `Matplotlib` · `Chart.js`
+
+</td>
+</tr>
+</table>
+
+
 
 ## 🚀 Featured Projects
 
-### 🔍 AI Powered Misinformation and Deepfake Detection System
-Exploring deep-learning-based approaches for deepfake detection, with a focus on computer vision and trustworthy AI.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**Tech:** Python, Deep Learning, EfficientNetB0
+### 🧠 DeepReflect AI
+
+**Psychology-Aware Deepfake Detection**
+
+Deep-learning-based visual analysis for detecting manipulated media.
+
+`Python` `EfficientNetB0` `OpenCV` `FastAPI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🚘 Visual Detection System
+
+**YOLO-Based Computer Vision**
+
+Visual detection work developed during industry internship experience.
+
+`Python` `YOLO` `OpenCV`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 💰 Personal Finance Tracker
-A full-stack application for managing income, expenses, savings goals, and financial insights through interactive charts.
 
-**Tech:** Django REST Framework, JavaScript, MySQL
+**Full-Stack Finance Application**
 
-### ✋ SignBridge — Sign Language Recognition
-A computer-vision project focused on recognizing sign-language gestures and making communication more accessible.
+A Django-based application for managing financial records.
 
-**Tech:** Python, Computer Vision, Deep Learning
+`Django` `Python` `SQL` `JavaScript`
 
-### 🚗 YOLOe based Multimodal 
-Worked on visual detection applications during industry internship experience, exploring object detection and computer vision workflows.
+[View Repository]((https://github.com/shaili2005/Personal-Finance-Tracker))
 
-**Tech:** Python, YOLO, OpenCV
+</td>
+<td width="50%" valign="top">
+
+### ✋ Sign Language Recognition
+
+**Accessible Gesture Recognition**
+
+Computer vision and machine learning for hand-sign recognition.
+
+`Python` `OpenCV` `ML`
+
+[View Repository](https://github.com/shaili2005/SignBridge)
+
+</td>
+</tr>
+</table>
+
 
 ## 💼 Experience & Achievements
 

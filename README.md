@@ -30,7 +30,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,cpp,java,js,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,cpp,js,c&theme=dark" />
 
 <img src="https://skillicons.dev/icons?i=html,css" />
 
@@ -48,9 +48,9 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 
 ### Web & Backend
 
-<img src="https://skillicons.dev/icons?i=react,django,fastapi,nodejs&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,django,fastapi&theme=dark" />
 
-`REST APIs` · `Bootstrap`
+`REST APIs`
 
 </td>
 </tr>
@@ -61,7 +61,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 
 <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&theme=dark" />
 
-`Oracle SQL` · `PL/SQL`
+`MySQL`
 
 </td>
 <td valign="top">
@@ -79,7 +79,7 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 
 <img src="https://skillicons.dev/icons?i=grafana&theme=dark" />
 
-`NumPy` · `Pandas` · `Matplotlib` · `Chart.js`
+`NumPy` · `Pandas` · `Matplotlib`
 
 </td>
 </tr>
@@ -93,9 +93,9 @@ I'm a Computer Science undergraduate specializing in Artificial Intelligence and
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 DeepReflect AI
+### 🧠 AI powered Misinformation and Deepfake Detection System
 
-**Psychology-Aware Deepfake Detection**
+**AI powered Deepfake Detection**
 
 Deep-learning-based visual analysis for detecting manipulated media.
 
@@ -106,7 +106,7 @@ Deep-learning-based visual analysis for detecting manipulated media.
 
 ### 🚘 Visual Detection System
 
-**YOLO-Based Computer Vision**
+**YOLOe-Based Computer Vision**
 
 Visual detection work developed during industry internship experience.
 
@@ -125,7 +125,7 @@ A Django-based application for managing financial records.
 
 `Django` `Python` `SQL` `JavaScript`
 
-[View Repository]((https://github.com/shaili2005/Personal-Finance-Tracker))
+[View Repository](https://github.com/shaili2005/Personal-Finance-Tracker)
 
 </td>
 <td width="50%" valign="top">

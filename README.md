@@ -1,7 +1,7 @@
 # Hi there, I'm Shaili Saxena! 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=Shaili%20Saxena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Data%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Shaili Saxena profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:9333EA&height=180&section=header&text=Shaili%20Saxena&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%2FML%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=58&descSize=18" width="100%" alt="Shaili Saxena profile banner"/>
 </p>
 
 <p align="center">
